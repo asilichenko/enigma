@@ -5,7 +5,7 @@
 - encode and decode Enigma messages with Enigma M3 and M4
 - find machine setting for enciphered message using Hill-climbing algorithm 
 
-## Enigma machine models that were in use
+## Enigma machine models that were in use during WWII
 
 | # | Model                        | UKW    | Rotors | Choice of rotors                           |
 | - | ---------------------------- | ------ | ------ | ------------------------------------------ |
