@@ -40,6 +40,7 @@ Procedure:
 - [How did the Enigma Machine work?](https://youtu.be/ybkkiGtJmkM)
 - [How Enigma machine worked](https://hackaday.com/2017/08/22/the-enigma-enigma-how-the-enigma-machine-worked)
 - [Rotors wiring](https://www.cryptomuseum.com/crypto/enigma/wiring.htm)
+- [Rotors stepping](https://www.cryptomuseum.com/crypto/enigma/working.htm#stepping)
 
 ## Hill-Climbing algorithm
 
