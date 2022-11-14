@@ -97,7 +97,7 @@ Hill climb over plug pairs:
 
 For long messages it's enough to use IoC for all plug pairs, but for short could be used next condition:
 - from the 1st pair to the 4th - use Unigram fitness function
-- from 4th to 9th - use Trigram
+- from 5th to 9th - use Trigram
 - for the last one - use Tetragram
 
 At this project IoC fitness function has been simplified for time saving reason:
