@@ -48,7 +48,7 @@ There is Hill-Climbing algorithm implementation in module [hill-climbing](hill-c
 This algorithm was described by Geoff Sullivan & Frode Weierud.
 
 My implementation contains few improvements that help save time:
-- reduce ring enumeration by stepping
+- reduce ring enumeration by varing enumeration step size
 - use preliminary result filter
 
 Algorithm basic steps:
