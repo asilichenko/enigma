@@ -1,0 +1,15 @@
+<configuration>
+
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="ua.in.asilichenko.enigma.hillclimbing" level="INFO">
+        <appender-ref ref="CONSOLE"/>
+    </logger>
+
+    <root level="INFO"/>
+
+</configuration>

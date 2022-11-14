@@ -1,0 +1,34 @@
+{
+  "I": {
+    "notches": [24],
+    "wiring": "EKMFLGDQVZNTOWYHXUSPAIBRCJ"
+  },
+  "II": {
+    "notches": [12],
+    "wiring": "AJDKSIRUXBLHWTMCQGZNPYFVOE"
+  },
+  "III": {
+    "notches": [3],
+    "wiring": "BDFHJLCPRTXVZNYEIWGAKMUSQO"
+  },
+  "IV": {
+    "notches": [17],
+    "wiring": "ESOVPZJAYQUIRHXLNFTGKDCMWB"
+  },
+  "V": {
+    "notches": [7],
+    "wiring": "VZBRGITYUPSDNHLXAWMJQOFECK"
+  },
+  "VI": {
+    "notches": [7, 20],
+    "wiring": "JPGVOUMFYQBENHZRDKASXLICTW"
+  },
+  "VII": {
+    "notches": [7, 20],
+    "wiring": "NZJHGRCXMYSWBOUFAIVLPEKQDT"
+  },
+  "VIII": {
+    "notches": [7, 20],
+    "wiring": "FKQHTLXOCBJSPDZRAMEWNIUYGV"
+  }
+}
